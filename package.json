@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageWriter3dc/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagewriter3dc" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagewriter3dc" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }

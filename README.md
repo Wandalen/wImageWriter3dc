@@ -1,5 +1,5 @@
 
-# module::ImageWriter3dc  [![Status](https://github.com/Wandalen/wImageWriter3dc/workflows/publish/badge.svg)](https://github.com/Wandalen/wImageWriter3dc/actions?query=workflow%3Apublish) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
+# module::ImageWriter3dc  [![status](https://github.com/Wandalen/wImageWriter3dc/workflows/publish/badge.svg)](https://github.com/Wandalen/wImageWriter3dc/actions?query=workflow%3Apublish) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
 
 ___
 

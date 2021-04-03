@@ -1,34 +1,22 @@
 {
-  "name": "wimagewriter3dc",
-  "version": "0.2.69",
-  "description": "___",
-  "author": "Kostiantyn Wandalen <wanalen@01.school>",
-  "license": "MIT",
-  "main": "proto/wtools/Tools.s",
-  "files": [
-    "proto/wtools/___",
-    "proto/wtools/Tools.s",
-    "proto/node_modules"
-  ],
-  "scripts": {
-    "test": "wtest .run proto rapidity:-3",
-    "docgen": "wdocgen .build proto"
+  "name" : "wimagewriter3dc",
+  "version" : "0.2.70",
+  "description" : "___",
+  "author" : "Kostiantyn Wandalen <wanalen@01.school>",
+  "license" : "MIT",
+  "main" : "/pro/module/wImageWriter3dc/proto/node_modules/wimagewriter3dc",
+  "files" : [ "proto/wtools/___", "proto/wtools/Tools.s", "proto/node_modules" ],
+  "scripts" : { "test" : "wtest .run proto rapidity:-3", "docgen" : "wdocgen .build proto" },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/Wandalen/wImageWriter3dc.git"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Wandalen/wImageWriter3dc.git"
+  "bugs" :
+  {
+    "url" : "https://github.com/Wandalen/wImageWriter3dc/issues"
   },
-  "bugs": {
-    "url": "https://github.com/Wandalen/wImageWriter3dc/issues"
-  },
-  "dependencies": {
-    "wTools": "delta"
-  },
-  "devDependencies": {
-    "eslint": "7.1.0",
-    "wTesting": "delta"
-  },
-  "keywords": [
-    "wTools"
-  ]
+  "dependencies" : { "wTools" : "delta" },
+  "devDependencies" : { "eslint" : "7.1.0", "wTesting" : "delta" },
+  "keywords" : [ "wTools" ]
 }
